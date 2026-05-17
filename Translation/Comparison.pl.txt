@@ -1,2 +1,0 @@
-GOOD: No keys missing in Master.txt
-GOOD: No keys missing in Localized.pl.txt
